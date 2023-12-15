@@ -1,5 +1,5 @@
 <span>
-    <img width="540" src="https://github-readme-stats.vercel.app/api?username=asood-iitbhu&show_icons=true">
+    <img width="540" src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true">
     <img width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </span><br><br>
 
@@ -14,13 +14,13 @@
 
 <b>Programming Languages</b>
 
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 
 <span></span>
 
@@ -42,6 +42,7 @@
 
 <b>Positions of Responsibility</b>
 <ul>
+<li>At present, I am working as an Associate in the Engineering Development Group at MathWorks (Bangalore)</li>
 <li>Worked as a Software Development Intern in Engineering Development Group at <a href="https://in.mathworks.com/">MathWorks</a> (Bangalore). I performed refactoring on over <b>75</b> components resulting in reduction of build times by <b>60%</b> thereby optimising the build infrastructure </li>
 <li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
 <li>Worked as Practice Test Paper Development Intern at <a href="https://www.edvizo.com/">Edvizo</a> during April-May (2020) contributing an extensive set of 750+ Questions in the field of Mathematics for JEE Aspirants</li>
@@ -58,4 +59,4 @@
 
 <span></span>
 
-<img width="840" src = "https://github-profile-trophy.vercel.app/?username=asood-iitbhu&row=1">
+<img width="840" src = "https://github-profile-trophy.vercel.app/?username=asood-life&row=1">
