@@ -16,7 +16,7 @@
 
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></code>
-<code><img width="50" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"></code>
+<code><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
 
@@ -28,7 +28,7 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"></code>
 <code><img width="50" src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg"></code>
-<code><img width="50" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png"></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
 <code><img width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg"></code>
@@ -46,7 +46,7 @@
 <b>Leadership Roles</b>
 <ul>
 <li>At present, I am working as an Associate in the Engineering Development Group at MathWorks (Bangalore)</li>
-<li>Worked as a Software Development Intern in Engineering Development Group at MathWorks (Bangalore). I undertook the task of refactoring over <b>75</b> components. This initiative led to a remarkable <b>60%</b> reduction in build times, thereby optimizing the overall build infrastructure. </li>
+<li>Worked as a Software Development Intern in Engineering Development Group at MathWorks (Bangalore). I undertook the task of refactoring over <b>75</b> components. This initiative led to a remarkable <b>60%</b> reduction in build times.</li>
 <li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of UDYAM</li>
 <li>As a Practice Test Paper Development Intern at Edvizo from April to May 2020, I played a key role in crafting an extensive collection of over 750 questions in the field of Mathematics tailored for JEE aspirants.</li>
 <li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by the Robotics Club of IIT (BHU) Varanasi</li>
@@ -55,9 +55,9 @@
 
 <b>Honours and Achievements</b>
 <ul>
-<li>Attained the top position in Cassandra 2021: Data Analysis Event, held under the UDYAM banner.</li>
 <li>Declared the winner in Snakes and Hackers II, an event organized by Major League Hacking (MLH), where our team successfully implemented a series of board games with escalating difficulties using HTML, CSS, and JavaScript.</li>
 <li>Secured the theme prize at Wild Hacks II for presenting a proposal to develop a web interface using the MERN Stack. The project aimed to facilitate exploration of the rich diversity of flora and fauna within Wildlife Sanctuaries and Natural Parks.</li>
+    <li>Attained the top position in Cassandra 2021: Data Analysis Event, held under the UDYAM banner.</li>
 </ul>
 
 <span></span>
