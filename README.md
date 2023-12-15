@@ -46,18 +46,18 @@
 <b>Leadership Roles</b>
 <ul>
 <li>At present, I am working as an Associate in the Engineering Development Group at MathWorks (Bangalore)</li>
-<li>Worked as a Software Development Intern in Engineering Development Group at MathWorks (Bangalore).  undertook the task of refactoring over <b>75</b> components. This initiative successfully led to a remarkable <b>60%</b> reduction in build times, thereby optimizing the overall build infrastructure. </li>
+<li>Worked as a Software Development Intern in Engineering Development Group at MathWorks (Bangalore). I undertook the task of refactoring over <b>75</b> components. This initiative led to a remarkable <b>60%</b> reduction in build times, thereby optimizing the overall build infrastructure. </li>
 <li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of UDYAM</li>
-<li>Worked as Practice Test Paper Development Intern at Edvizo during April-May (2020) contributing an extensive set of 750+ Questions in the field of Mathematics for JEE Aspirants</li>
-<li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under Technex</li>
+<li>As a Practice Test Paper Development Intern at Edvizo from April to May 2020, I played a key role in crafting an extensive collection of over 750 questions in the field of Mathematics tailored for JEE aspirants.</li>
 <li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by the Robotics Club of IIT (BHU) Varanasi</li>
+<li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under Technex</li>
 </ul>
 
 <b>Honours and Achievements</b>
 <ul>
-<li>Secured first position in Cassandra 2021 : Data Analysis Event organized under the banner of UDYAM</li>
-<li>Decalred winner in Snakes and Hackers II organized by Major League Hacking (MLH) in where we implemented a a set of board games with increasing difficulties using HTML, CSS and JavaScript.</li>
-<li>Bagged theme prize in Wild Hacks II for proposing to build a web interface using MERN Stack for exploring the diverse flora and fauna residing in Wildlife Sanctuaries and Natural Parks.</li>
+<li>Attained the top position in Cassandra 2021: Data Analysis Event, held under the UDYAM banner.</li>
+<li>Declared the winner in Snakes and Hackers II, an event organized by Major League Hacking (MLH), where our team successfully implemented a series of board games with escalating difficulties using HTML, CSS, and JavaScript.</li>
+<li>Secured the theme prize at Wild Hacks II for presenting a proposal to develop a web interface using the MERN Stack. The project aimed to facilitate exploration of the rich diversity of flora and fauna within Wildlife Sanctuaries and Natural Parks.</li>
 </ul>
 
 <span></span>
