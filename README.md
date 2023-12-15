@@ -53,11 +53,11 @@
 <li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under Technex</li>
 </ul>
 
-<b>Honours and Achievements</b>
+<b>Achievements</b>
 <ul>
 <li>Declared the winner in Snakes and Hackers II, an event organized by Major League Hacking (MLH), where our team successfully implemented a series of board games with escalating difficulties using HTML, CSS, and JavaScript.</li>
-<li>Secured the theme prize at Wild Hacks II for presenting a proposal to develop a web interface using the MERN Stack. The project aimed to facilitate exploration of the rich diversity of flora and fauna within Wildlife Sanctuaries and Natural Parks.</li>
 <li>Attained the top position in Cassandra 2021: a Data Analysis Event, organized under the banner of UDYAM</li>
+<li>Secured the theme prize at Wild Hacks II for presenting a proposal to develop a web interface using the MERN Stack. The project aimed to facilitate exploration of the rich diversity of flora and fauna within Wildlife Sanctuaries and Natural Parks.</li>
 </ul>
 
 <span></span>
