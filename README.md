@@ -26,21 +26,21 @@
 
 <b>Frameworks and Libraries</b>
 
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></code>
 
 <span></span>
 
 <b>Projects</b>
 
-<a href="https://github.com/asood-iitbhu/Avishkaar"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-iitbhu&repo=Avishkaar"></a>
-<a href="https://github.com/asood-iitbhu/Expressio"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-iitbhu&repo=Expressio"></a>
+<a href="https://github.com/asood-life/Avishkaar"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=Avishkaar"></a>
+<a href="https://github.com/asood-life/Expressio"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=Expressio"></a>
 
 
-<b>Positions of Responsibility</b>
+<b>Leadership Roles</b>
 <ul>
 <li>At present, I am working as an Associate in the Engineering Development Group at MathWorks (Bangalore)</li>
 <li>Worked as a Software Development Intern in Engineering Development Group at <a href="https://in.mathworks.com/">MathWorks</a> (Bangalore). I performed refactoring on over <b>75</b> components resulting in reduction of build times by <b>60%</b> thereby optimising the build infrastructure </li>
