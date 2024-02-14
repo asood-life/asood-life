@@ -1,7 +1,7 @@
 <span>
     <img width="540" src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true">
     <img width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</span><br><br>
+</span><br>
 
 <div align=center>
     <img src="https://img.shields.io/badge/-Modern%20C++-brown">
@@ -22,7 +22,7 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
 
-<span></span>
+<span></span><br>
 
 <b>Frameworks and Libraries</b>
 
@@ -37,4 +37,6 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
 <code><img width="50" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
 
-<span></span>
+<span></span><br><br>
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=asood_life">
