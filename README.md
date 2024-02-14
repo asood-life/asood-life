@@ -22,7 +22,7 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
 
-<span></span><br>
+<span></span>
 
 <b>Frameworks and Libraries</b>
 
@@ -37,6 +37,6 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
 <code><img width="50" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
 
-<span></span><br><br>
+<span></span>
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=asood_life">
+<code><img src="https://leetcode-stats-six.vercel.app/api?username=asood_life"></code>
