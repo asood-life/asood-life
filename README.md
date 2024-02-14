@@ -1,7 +1,7 @@
 <span>
     <img width="540" src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true">
     <img width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</span><br>
+</span><br><br>
 
 <div align=center>
     <img src="https://img.shields.io/badge/-Modern%20C++-brown">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Design%20Patterns-purple">
     <img src="https://img.shields.io/badge/-Java-darkblue">
     <img src="https://img.shields.io/badge/-Micro%20Services-darkorange">
-</div><br>
+</div><br><br>
 
 <b>Programming Languages</b>
 
