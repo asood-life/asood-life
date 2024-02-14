@@ -37,8 +37,3 @@
 <code><img width="50" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
 
 <span></span>
-
-<b>Projects</b>
-
-<a href="https://github.com/asood-life/FS_WEB_D_TBD"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=FS_WEB_D_TBD"></a>
-<a href="https://github.com/asood-life/ML_TBD"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=ML_TBD"></a>
