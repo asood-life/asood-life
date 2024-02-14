@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/-Web%20Development-darkorange">
     <img src="https://img.shields.io/badge/-Machine%20Learning-brown">
     <img src="https://img.shields.io/badge/-Design%20Patterns-purple">
+    <img src="https://img.shields.io/badge/-Java-darkblue">
     <img src="https://img.shields.io/badge/-Micro%20Services-darkorange">
-    <img src="https://img.shields.io/badge/-Java%20Services-darkblue">
 </div><br>
 
 <b>Programming Languages</b>
