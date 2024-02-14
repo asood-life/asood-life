@@ -4,10 +4,13 @@
 </span><br><br>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/-Web%20Development-orange">
-    <img src="https://img.shields.io/badge/-Competitive%20Programming-red">
-    <img src="https://img.shields.io/badge/-Machine%20Learning-blue">
-    <img src="https://img.shields.io/badge/-Computer%20Science-blueviolet">
+    <img src="https://img.shields.io/badge/-Modern%20C++-brown">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-purple">
+    <img src="https://img.shields.io/badge/-GDB-darkblue">
+    <img src="https://img.shields.io/badge/-Web%20Development-darkorange">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-brown">
+    <img src="https://img.shields.io/badge/-Design%20Patterns-purple">
+    <img src="https://img.shields.io/badge/-Micro%20Services-darkblue">
 </div><br>
     
 <b>Education</b> : B.Tech in Electronics Enginnering @ IIT (BHU) Varanasi (2019-2023)<br>
@@ -31,35 +34,13 @@
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></code>
 <code><img width="50" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg"></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/718px-Tensorflow_logo.svg.png"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></code>
+<code><img width="50" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
 
 <span></span>
 
 <b>Projects</b>
 
-<a href="https://github.com/asood-life/Avishkaar"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=Avishkaar"></a>
-<a href="https://github.com/asood-life/Expressio"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=Expressio"></a>
-
-
-<b>Leadership Roles</b>
-<ul>
-<li>At present, I am working as an Associate in the Engineering Development Group at MathWorks (Bangalore)</li>
-<li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of UDYAM</li>
-<li>Worked as a Software Development Intern in Engineering Development Group at MathWorks (Bangalore). I undertook the task of refactoring over <b>75</b> components. This initiative led to a remarkable <b>60%</b> reduction in build times.</li>
-<li>As a Practice Test Paper Development Intern at Edvizo from April to May 2020, I played a key role in crafting an extensive collection of over 750 questions in the field of Mathematics tailored for JEE aspirants.</li>
-<li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by the Robotics Club of IIT (BHU) Varanasi</li>
-<li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under Technex</li>
-</ul>
-
-<b>Achievements</b>
-<ul>
-<li>Secured the theme prize at Wild Hacks II for presenting a proposal to develop a web interface using the MERN Stack. The project aimed to facilitate exploration of the rich diversity of flora and fauna within Wildlife Sanctuaries and Natural Parks.</li>
-<li>Declared the winner in Snakes and Hackers II, an event organized by Major League Hacking (MLH), where our team successfully implemented a series of board games with escalating difficulties using HTML, CSS, and JavaScript.</li>
-<li>Attained the top position in Cassandra 2021: a Data Analysis Event, organized under the banner of UDYAM</li>
-</ul>
-
-<span></span>
-
-<img width="840" src = "https://github-profile-trophy.vercel.app/?username=asood-life&row=1">
+<a href="https://github.com/asood-life/FS_WEB_D_TBD"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=FS_WEB_D_TBD"></a>
+<a href="https://github.com/asood-life/ML_TBD"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=asood-life&repo=ML_TBD"></a>
