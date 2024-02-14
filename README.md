@@ -17,10 +17,11 @@
 <b>Programming Languages</b>
 
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></code>
-<code><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
+<code><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg"></code>
+<code><img width="50" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png"></code>
 
 <span></span>
 
@@ -37,6 +38,8 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg"></code>
 <code><img width="50" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
 
-<span></span>
+<span></span><br>
 
-<code><img src="https://leetcode-stats-six.vercel.app/api?username=asood_life"></code>
+<b>LeetCode Profile Statistics</b>
+
+<code><img width="375" src="https://leetcode-stats-six.vercel.app/api?username=asood_life"></code>
