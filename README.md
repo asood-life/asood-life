@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/-Design%20Patterns-purple">
     <img src="https://img.shields.io/badge/-Micro%20Services-darkblue">
 </div><br>
-    
-<b>Education</b> : B.Tech in Electronics Enginnering @ IIT (BHU) Varanasi (2019-2023)<br>
 
 <b>Programming Languages</b>
 
