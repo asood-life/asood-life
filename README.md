@@ -31,41 +31,52 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&ring_color=000000">
+            <img src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&ring_color=000000&hide=contribs">
         </td>
         <!-- <td> @to-consider
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asood-life&layout=donut&hide_title=true">
         </td> -->
         <td>
-            <a href="https://www.linkedin.com/in/asood-life">
-                <img width="35" src="./assets/social-media-icons/linkedin-logo.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://medium.com/@akshatsood.life">
-                <img width="35" src="./assets/social-media-icons/medium-logo.png">
-            </a>
-        </td>
-        <td>
-            <a href="mailto:akshatsood.life@gmail.com">
-                <img width="35" src="./assets/social-media-icons/gmail-logo.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://x.com/akshatsood_life">
-                <img width="35" src="./assets/social-media-icons/twitter-logo.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://codeforces.com/profile/asood_life">
-                <img width="35" src="./assets/social-media-icons/codeforces-logo.png">
-            </a>
-        </td>
-        <td>
-            <a href="https://www.instagram.com/akshatsood.life">
-                <img width="35" src="./assets/social-media-icons/instagram-logo.png">
-            </a>
-        </td>
+            <table>
+                <tr>
+                    <div  align="center">
+                        Have Questions? Feel Free to Connect with Me
+                    </div>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://www.linkedin.com/in/asood-life">
+                            <img width="35" src="./assets/social-media-icons/linkedin-logo.png">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://medium.com/@akshatsood.life">
+                            <img width="35" src="./assets/social-media-icons/medium-logo.png">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="mailto:akshatsood.life@gmail.com">
+                            <img width="35" src="./assets/social-media-icons/gmail-logo.png">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://x.com/akshatsood_life">
+                            <img width="35" src="./assets/social-media-icons/twitter-logo.png">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://codeforces.com/profile/asood_life">
+                            <img width="35" src="./assets/social-media-icons/codeforces-logo.png">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.instagram.com/akshatsood.life">
+                            <img width="35" src="./assets/social-media-icons/instagram-logo.png">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </td>  
     </tr>
 </table>
 
