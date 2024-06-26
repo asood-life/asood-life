@@ -39,11 +39,6 @@
         <td>
             <table>
                 <tr>
-                    <div  align="center">
-                        Have Questions? Feel Free to Connect with Me
-                    </div>
-                </tr>
-                <tr>
                     <td>
                         <a href="https://www.linkedin.com/in/asood-life">
                             <img width="35" src="./assets/social-media-icons/linkedin-logo.png">
