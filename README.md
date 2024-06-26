@@ -31,6 +31,12 @@
 <table>
     <tr>
         <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&ring_color=000000">
+        </td>
+        <!-- <td> @to-consider
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asood-life&layout=donut&hide_title=true">
+        </td> -->
+        <td>
             <a href="https://www.linkedin.com/in/asood-life">
                 <img width="35" src="./assets/social-media-icons/linkedin-logo.png">
             </a>
@@ -63,6 +69,6 @@
     </tr>
 </table>
 
-<footer>
-    Should you find value in this project, please consider giving it a star ⭐ as a token of appreciation. If you would like to suggest an enhancement or report a bug, feel free to reach out to me or report it under the <a href="https://github.com/asood-life/asood-life/issues">Issues</a> section.
-</footer>
+<!-- <footer> @footer-template
+    If you find value in this project, please consider giving it a star ⭐ to show your support. Should you encounter any issues or have suggestions for enhancements, feel free to reach out to me or register them under the <a href="https://github.com/asood-life/asood-life/issues">Issues</a> section.
+</footer> -->
