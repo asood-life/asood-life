@@ -33,56 +33,18 @@
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=asood-life&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&ring_color=000000&hide=contribs">
         </td>
-        <!-- <td> @to-consider
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asood-life&layout=donut&hide_title=true">
-        </td> -->
         <td>
-            <table>
-                <tr>
-                    <td>
-                        <a href="https://www.linkedin.com/in/asood-life">
-                            <img width="35" src="./assets/social-media-icons/linkedin-logo.png">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://medium.com/@akshatsood.life">
-                            <img width="35" src="./assets/social-media-icons/medium-logo.png">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="mailto:akshatsood.life@gmail.com">
-                            <img width="35" src="./assets/social-media-icons/gmail-logo.png">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://x.com/akshatsood_life">
-                            <img width="35" src="./assets/social-media-icons/twitter-logo.png">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://codeforces.com/profile/asood_life">
-                            <img width="35" src="./assets/social-media-icons/codeforces-logo.png">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://www.instagram.com/akshatsood.life">
-                            <img width="35" src="./assets/social-media-icons/instagram-logo.png">
-                        </a>
-                    </td>
-                </tr>
-            </table>
-            <br>
-            <table align="right">
-                <tr>
-                    <td>
-                        - Akshat Sood (asood-life)
-                    </td>
-                </tr>
-            </table>
-        </td>  
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asood-life&layout=donut&hide_title=true">
+        </td>
     </tr>
 </table>
 
-<!-- <footer> @footer-template
-    If you find value in this project, please consider giving it a star ⭐ to show your support. Should you encounter any issues or have suggestions for enhancements, feel free to reach out to me or register them under the <a href="https://github.com/asood-life/asood-life/issues">Issues</a> section.
-</footer> -->
+<table>
+    <tr>
+        <div>
+            Hi there! I am a passionate Software Developer with 14 months of immersive hands-on experience and a natural flair for effective communication. My commitment to excellence drives me to create robust solutions that address complex problems. Fueled by a passion for coding and a desire to innovate, I strive to engineer impactful ideas that leave a lasting impression. Leveraging strong communication skills, I excel in cultivating collaborative partnerships with stakeholders, ensuring our combined efforts consistently exceed expectations and align with the organization's objectives.
+            <br><br>
+            My core values revolve around dedication, discipline, and determination, which I consider paramount for both personal and professional growth. Armed with a B.Tech in Electronics Engineering from IIT BHU, I proudly graduated within the top 5% of my cohort. Powered by an unquenchable thirst for knowledge, I adopt the mantra of "Forever a Student of Life," cherishing continuous learning. Moreover, I harbor an unwavering passion for both Full-Stack Development and Machine Learning, compelling me to explore new horizons and innovate within these ever-evolving fields.
+        </div>
+    </tr>
+</table>
