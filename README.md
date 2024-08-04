@@ -6,12 +6,12 @@
     </tr>
     <tr>
         <td>
-            <a href="#">
+            <a href="https://asood-life.github.io/asood-life/RESUME.pdf">
                 <img src="./assets/resume-thumbnail.jpg">
             </a>
         </td>
         <td>
-            <a href="#">
+            <a href="https://asood-life.github.io/portfolio-website">
                 <img src="./assets/portfolio-website-thumbnail.jpg">
             </a>
         </td>
@@ -42,9 +42,9 @@
 <table>
     <tr>
         <div>
-            Hi there! I am a passionate <b>Software Developer</b> with immersive <b>hands-on experience</b> and a natural flair for <b>effective communication</b>. My <b>commitment to excellence</b> drives me to create robust solutions that address complex problems. Fueled by a passion for coding and a <b>desire to innovate</b>, I strive to <b>engineer impactful ideas</b> that leave a lasting impression. Leveraging strong communication skills, I excel in <b>cultivating collaborative partnerships</b> with stakeholders, ensuring our combined efforts consistently <b>exceed expectations</b>.
+            Hi there! I am a passionate Software Developer with immersive hands-on experience and a natural flair for effective communication. My commitment to excellence drives me to create robust solutions that address complex problems. Fueled by a passion for coding and a desire to innovate, I strive to engineer impactful ideas that leave a lasting impression. Leveraging strong communication skills, I excel in cultivating collaborative partnerships with stakeholders, ensuring our combined efforts consistently exceed expectations.
             <br><br>
-            My core values revolve around the 3Ds <b>(Dedication - Discipline and Determination)</b>, which I consider paramount for both personal and professional growth. Armed with a <b>B.Tech in Electronics Engineering from IIT BHU</b>, I proudly graduated within the top 5% of my cohort. Powered by an unquenchable thirst for knowledge, I adopt the mantra of <b>"Forever a Student of Life"</b> cherishing continuous learning. Moreover, I harbor an unwavering passion for both <b>Full-Stack Development</b> and <b>Machine Learning</b>.
+            My core values revolve around the 3Ds (Dedication - Discipline and Determination), which I consider paramount for both personal and professional growth. Armed with a B.Tech in Electronics Engineering from IIT BHU, I proudly graduated within the top 5% of my cohort. Powered by an unquenchable thirst for knowledge, I adopt the mantra of "Forever a Student of Life" cherishing continuous learning. Moreover, I harbor an unwavering passion for Full-Stack Development and Machine Learning.
         </div>
     </tr>
 </table>
