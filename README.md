@@ -42,7 +42,7 @@
 <table>
     <tr>
         <div>
-            Hi there! I am a passionate Software Developer with immersive hands-on experience and a natural flair for effective communication. My commitment to excellence drives me to create robust solutions that address complex problems. Fueled by a passion for coding and a desire to innovate, I strive to engineer impactful ideas that leave a lasting impression. Leveraging strong communication skills, I excel in cultivating collaborative partnerships with stakeholders, ensuring our combined efforts consistently exceed expectations.
+            Hi there! I am a passionate Software Developer with immersive hands-on experience and a natural flair for effective communication. My commitment to excellence drives me to create robust solutions that address complex problems. Fueled by a passion for coding and a desire to innovate, I strive to engineer impactful ideas that leave a lasting impression. Leveraging strong communication skills, I excel in fostering collaborative partnerships with stakeholders to build strong and trust-based relationships that facilitate smooth task execution, ensuring our combined efforts consistently exceed set expectations.
             <br><br>
             My core values revolve around the 3Ds (Dedication - Discipline and Determination), which I consider paramount for both personal and professional growth. Armed with a B.Tech in Electronics Engineering from IIT BHU, I proudly graduated within the top 5% of my cohort. Powered by an unquenchable thirst for knowledge, I adopt the mantra of "Forever a Student of Life" cherishing continuous learning. Moreover, I harbor an unwavering passion for Full-Stack Development and Machine Learning.
         </div>
