@@ -1,6 +1,6 @@
 <img src="media/profile-banner.jpg">
 <br>
-Software development engineer with over 2 years of experience in delivering robust, scalable and maintainable software solutions.
+Software development engineer with over two years of experience in delivering robust, scalable and maintainable software applications.
 <br><br>
 At MathWorks, I am a part of the Subsystem Reference team, where I work on advancing the product capabilities that streamline model development and support MathWorks mission of accelerating the pace of engineering and science.
 <br><br>
