@@ -1,7 +1,5 @@
 <img src="media/profile-banner.jpg">
 <br>
-Software professional with over two years of experience, committed to delivering resilient and scalable software solutions.
-<br><br>
 <table align="center">
   <tr>
     <td align="center">
